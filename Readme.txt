@@ -13,7 +13,7 @@ Last successful run is already saved in the python Notebook already to verify.
 
 Method 2
 
-Run preprocessing.py(Given by the instructor), and final_code.py separately by changing the same values mentioned above.
+Run preprocessing.py, and final_code.py separately by changing the same values mentioned above.
 
 Change hyperparameters to your need.
 
